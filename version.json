@@ -1,0 +1,6 @@
+{ 
+  "version": "web",
+    "website": "0.1.0",
+    "dashboard": "12.11.1",
+    "panel": "0.1.0"
+}
